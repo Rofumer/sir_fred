@@ -1,0 +1,22 @@
+# boot + start game
+10
+5 0
+150
+# room 1: jump, grab rope, climb, jump off
+40 Q
+60 P
+20
+# go left to room 2 and explore
+120 O
+60
+40 Z
+40 M
+60 O
+30 Q O
+80 O
+40 Z
+60 P
+40 A
+120 O
+60 Q
+100 O

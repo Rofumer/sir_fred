@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+*.lst
+*.sym
+
+# Original copyrighted game files — must be supplied by the user.
+# Place the original Sir Fred (Mikro-Gen, 1986) .z80 snapshot here as:
+#   original/SirFred.z80
+# and the verified 48K RAM dump as:
+#   original/Sir_Fred_RAM_48K_verified.bin
+original/*.z80
+original/*.bin
